@@ -15,6 +15,9 @@ tailwind.config = {
                 theme_color11: '#F9FAFB',
                 theme_color12: '#85DAB9',
                 theme_color13: '#222938',
+                theme_color14: '#52BD94',
+                theme_color15: '#A9A7B6',
+                theme_color16: '#4535AF',
             },
             fontSize: {
                 'section_heading': ['50px', {

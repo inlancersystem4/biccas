@@ -143,4 +143,9 @@
       .custom-button {
           padding: 14px 28px;
       }
+
+
+      .subtract_list li {
+          font-size: 14px;
+      }
   }

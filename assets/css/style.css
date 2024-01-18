@@ -152,4 +152,16 @@
       .footer-link {
           font-size: 14px;
       }
+
+      .effect-circle {
+          width: 456px;
+          height: 456px;
+          border-radius: 999px;
+          filter: blur(500px);
+          -webkit-border-radius: 999px;
+          -moz-border-radius: 999px;
+          -ms-border-radius: 999px;
+          -o-border-radius: 999px;
+          -webkit-filter: blur(500px);
+}
   }
